@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Neuro84x\source\repos\CompMath\Решение НЛУ\main.cpp(16,38): warning C4101: fl: неиспользованная локальная переменная
+C:\Users\Neuro84x\source\repos\CompMath\Решение НЛУ\main.cpp(16,42): warning C4101: fr: неиспользованная локальная переменная
+  Решение НЛУ.vcxproj -> C:\Users\Neuro84x\source\repos\CompMath\Debug\Решение НЛУ.exe
